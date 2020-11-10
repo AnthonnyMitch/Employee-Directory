@@ -2,10 +2,13 @@
 
   ## Description:
   
-  Employee Directory fully functionable and made in React.js
+  Employee Directory fully functionable and made with React.js
   
   
   ## Technologies use:
+  
+  React.js
+  Bootstrap
 
   
   
@@ -30,7 +33,9 @@
   
  Instructions and examples for use:
  
-  In the homepage the user will see a display of their employees 2) Filter your search by typing a name in he search bar 
+  1)In the homepage the user will see a display of their employees. 
+  
+  2) Filter your search by typing a name in he search bar. 
   
   
   ## Credits
