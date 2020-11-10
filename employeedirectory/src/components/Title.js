@@ -3,7 +3,7 @@ import Jumbotron from 'react-bootstrap/Jumbotron'
 
 function Title() {
     return (
-        <Jumbotron fluid ClassName= "Jumbo">
+        <Jumbotron fluid className= "Jumbo">
      
           <h1 style={{textAlign: "center",}}>Employee Directory</h1>
          
