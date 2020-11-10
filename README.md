@@ -5,6 +5,7 @@
   Employee Directory fully functionable and made with React.js
   
   ## Link
+  https://anthonnymitch.github.io/Employee-Directory/
   
   
   ## Technologies use:
