@@ -27,7 +27,7 @@
    
    To install necessary dependencies, run the following command:
   
-  React.js
+npm start
   
   
   ## Usage 
